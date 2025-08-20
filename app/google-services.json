@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200259335223",
+    "project_id": "turma1711-6498e",
+    "storage_bucket": "turma1711-6498e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200259335223:android:118d00053141624426fbb2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxhQgRCtJyER4szKfBlVICGHakd3p2DCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200259335223:android:53b03cfe77433bd626fbb2",
+        "android_client_info": {
+          "package_name": "com.example.turma1711"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxhQgRCtJyER4szKfBlVICGHakd3p2DCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
