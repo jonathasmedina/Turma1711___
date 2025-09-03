@@ -85,7 +85,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-
         bt.setOnClickListener {
             mAuth.signInWithEmailAndPassword(
                 "jonathas.medina@ifms.edu.br",
